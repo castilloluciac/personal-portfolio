@@ -380,7 +380,7 @@ font-weight: 200;
         grid-row: 3;
     }
     .d4 {
-        display:
+        display: none;
     }
     .habilidades1 {
         grid-column: 1/2;
