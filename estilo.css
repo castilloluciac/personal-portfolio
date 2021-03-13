@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 /*For desktop*/
+@media only screen and (min-width: 750px) {
 .container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -136,7 +137,7 @@ li {
     padding: 10px 40px;
     margin-top: 0px;
 }
-.navbar {
+.navbar, .contacto-links {
     text-align: center;
     letter-spacing: 1px;
     word-spacing: 10px;
@@ -261,7 +262,7 @@ font-weight: 200;
 .copyright p {
     text-align: center;
 }
-
+}
 /*
 @media only screen and (max-width: 700px) {
     .container {
@@ -360,7 +361,7 @@ font-weight: 200;
          }
 }*/
 /*For mobile devices*/
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 749px) {
     .container {
         display: grid;
         grid-template-columns: 100%;
