@@ -368,90 +368,90 @@ font-weight: 200;
         grid-template-rows: auto;
     }
     .d1 {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 1;
         }
     .navegacion {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 2;
         }
     .bio {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 3;
     }
     .d4 {
         display: none;
     }
     .habilidades1 {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 4;
         align-content: center;
     }
     .habilidades2 {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 5;
     }
     .habilidades3 {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 6;
     }
 
       .proyectos {
-        grid-column: 1/2;
+        grid-column: 1;
         grid-row: 7;
         }
         .proyecto1 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 8;
             width: 80%;
             margin: auto;
             height: auto;
         }
         .proyecto2 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 9;            
             width: 80%;
             margin: auto;
             height: auto;
         }
         .proyecto3 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 10;           
              width: 80%;
             margin: auto;
             height: auto;
         }
         .proyecto4 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 11;
             width: 80%;
             margin: auto;
             height: auto;
         }
         .proyecto5 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 12;
             width: 80%;
             margin: auto;
             height: auto;
         }
         .proyecto6 {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 13;
             width: 80%;
             margin: auto;
             height: auto;
         }
         .formacion {
-            grid-column: 1/2;
+            grid-column: 1;
             grid-row: 14;
          }
          .contacto {
-                 grid-column: 1/2;
+                 grid-column: 1;
                 grid-row: 15;
          }
          .copyright {
-             grid-column: 1/2;
+             grid-column: 1;
              grid-row: 16;
          }
         }
